@@ -1,8 +1,8 @@
 {
   "name": "catalogo-api",
   "version": "1.0.0",
-  "main": "index.js",
   "author": "Bernardo Dias <bernardodiasdacruz@gmail.com>",
+  "repository": "git@github.com:bernardodiasc/catalogo-api.git",
   "license": "MIT",
   "dependencies": {
     "aws-sdk": "^2.201.0",
